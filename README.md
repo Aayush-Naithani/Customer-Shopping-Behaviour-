@@ -10,8 +10,11 @@ This project demonstrates practical, real-world analytics skills that are valuab
 The project uses a customer shopping dataset that includes:
 
 ✔ customer details
+
 ✔ purchase transactions
+
 ✔ discount information
+
 ✔ other behavior-related metrics
 
 The dataset is located in the repository and is structured for analytical processing and querying.
@@ -31,24 +34,31 @@ Dashboard:
 1. Data Loading
 
 --Loaded the CSV dataset using Pandas.
+
 --Explored basic dataset structure and data types.
 
 2. Exploratory Data Analysis (EDA)
 
 --Performed descriptive statistics.
+
 --Checked missing values and duplicates.
+
 --Visualized key variables using histograms, boxplots, and correlation matrices.
 
 3. Data Cleaning
 
 --Handled missing values.
+
 --Corrected inconsistent formats.
+
 --Removed outliers where appropriate.
+
 --Standardized text fields.
 
 4. SQL Analysis
 
 --Imported the cleaned dataset into PostgreSQL/MySQL/SQL Server.
+
 --Executed SQL queries to compute:
     (a)Average purchase behavior
     (b)Discount impact
@@ -60,8 +70,11 @@ Dashboard:
 --The Power BI dashboard includes:
 
 ✔ KPI Summary
+
 ✔ Purchase Trends
+
 ✔ Customer Segmentation
+
 ✔ Dynamic filters and slicers
 
 Dashboard file: 
@@ -72,7 +85,9 @@ Dashboard file:
 The analysis revealed:
 
 📈 High discount usage correlates with increased average basket value
+
 🛍 Top customer segments by purchase behavior
+
 📊 Trends in spending across time and categories
 
 
